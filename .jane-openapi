@@ -2,6 +2,6 @@
 
 return [
     'openapi-file' => 'https://neon.tech/api_spec/release/v2.json',
-    'namespace' => 'Vendor\Library\Generated',
-    'directory' => __DIR__ . '/generated',
+    'namespace' => 'Parchmate\LaravelNeon\Generated',
+    'directory' => __DIR__ . '/src/generated',
 ];
